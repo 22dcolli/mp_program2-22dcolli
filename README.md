@@ -10,3 +10,6 @@ I think that everything should work.
 
 Help Received: 
 Alex Bryan, Lily Brongo, Rhiannon Kilduff
+Used for rounding- https://www.geeksforgeeks.org/java-ceil-method-examples/?ref=header_outind 
+Used for help setting up listeners-https://stackoverflow.com/questions/20824634/android-on-text-change-listener 
+To make my Totals look Pretty(text formatting)-https://docs.oracle.com/javase/tutorial/essential/io/formatting.html 
