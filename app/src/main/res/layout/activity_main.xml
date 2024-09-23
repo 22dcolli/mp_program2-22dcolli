@@ -58,25 +58,25 @@
 
     <TextView
         android:id="@+id/TipAmount"
-        android:layout_width="412dp"
-        android:layout_height="53dp"
-        android:layout_marginTop="80dp"
+        android:layout_width="329dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="96dp"
         android:text="Tip Total:"
-        android:textSize="50sp"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Round" />
 
     <TextView
         android:id="@+id/TotalBill"
-        android:layout_width="403dp"
-        android:layout_height="60dp"
+        android:layout_width="325dp"
+        android:layout_height="96dp"
         android:layout_marginTop="20dp"
         android:text="Total Bill:"
-        android:textSize="50sp"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintHorizontal_bias="0.481"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TipAmount" />
 
